@@ -1,0 +1,2 @@
+print("buddy")
+print("hello")
